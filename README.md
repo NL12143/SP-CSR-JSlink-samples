@@ -1,8 +1,22 @@
+# JS Link for Web Parts – A Quick Functional Primer
+http://www.idubbs.com/blog/2012/js-link-for-sharepoint-2013-web-partsa-quick-functional-primer/
+JS Link is a new web part property in many SharePoint 2013 web parts.  It allows users and developers to create Client-Side Rendering (CSR) solutions within SharePoint 2013.  In other words, it allows alternate formatting, data and functionality to be manipulated within a web part.  It is one approach that will help replace the data view web part (DVWP) functionality that was used in SharePoint 2010 and SharePoint Designer 2010.
+
+DVWP > 
+
+#JSLink and SharePoint 2013 – How to Get Started
+https://www.dynamics101.com/jslink-sharepoint-2013-get-started/
+
+
 # CSR-JSlink-samples
+
+
+
+
 ** Client-side rendering (JS Link) code samples **
 JSLink files have the ability to quickly and easily change how a list views and forms are rendered. More specifically how the fields in that list should be displayed. I wrote the following code samples to be easy to understand and to achieve learning purposes.
 
-Refrence: 
+Reference: 
 https://code.msdn.microsoft.com/office/Client-side-rendering-JS-2ed3538a
 
 Those samples help you learn how to customize a field type by using the Client-Side Rendering (also called CSR, JS Link) technology in SharePoint 2013.
