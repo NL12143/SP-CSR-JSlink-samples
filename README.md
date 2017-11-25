@@ -6,7 +6,7 @@ DVWP >
 
 #JSLink and SharePoint 2013 – How to Get Started
 https://www.dynamics101.com/jslink-sharepoint-2013-get-started/
-
+http://www.learningsharepoint.com/2013/03/31/uploading-javascript-js-files-as-javascript-display-template-in-sharepoint-2013/
 
 # CSR-JSlink-samples
 
