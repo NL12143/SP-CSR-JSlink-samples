@@ -8,3 +8,7 @@ Dependencies
 
 References
 https://code.msdn.microsoft.com/office/Client-side-rendering-code-97e27fa1
+
+Usage
+To indicate a status in a quality documents systems QDMS or ISMS
+
