@@ -1,12 +1,13 @@
-﻿// List view – Confidential Documents Sample
+// List view – Confidential Documents Sample
 // Muawiyah Shannak , @MuShannak
+// https://code.msdn.microsoft.com/office/Client-side-rendering-code-97e27fa1
 
 (function () {
 
     // Create object that have the context information about the field that we want to change it's output render 
     var linkFilenameFiledContext = {};
-    linkFilenameFiledContext.Templates = {};
-    linkFilenameFiledContext.Templates.Fields = {
+        linkFilenameFiledContext.Templates = {};
+        linkFilenameFiledContext.Templates.Fields = {
         // Apply the new rendering for LinkFilename field on list view
         "LinkFilename": { "View": linkFilenameFiledTemplate }
     };
@@ -21,7 +22,7 @@ function linkFilenameFiledTemplate(ctx) {
     var confidential = ctx.CurrentItem["Confidential"];
     var title = ctx.CurrentItem["FileLeafRef"];
 
-    // This Regex expression use to delete extension (.docx, .pdf ...) form the file name
+    // This Regex expression use to delete extension (.docx, .pdf ...) from the file name
     title = title.replace(/\.[^/.]+$/, "")
 
     // Check confidential field value
@@ -35,4 +36,3 @@ function linkFilenameFiledTemplate(ctx) {
         return title;
     }
 }
-
