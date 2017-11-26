@@ -10,5 +10,14 @@ References
 https://code.msdn.microsoft.com/office/Client-side-rendering-code-97e27fa1
 
 Usage
-To indicate a status in a quality documents systems QDMS or ISMS
+To add visual indicatation on metadata in a quality documents systems QDMS or ISMS
+https://apps-metaware-nl/webapps/demoIso27000/app001.nsf e.g. risk 
 
+HRM
+Logistics
+1.2 Organization Chart A02 1
+1.3 Tasks A03 1
+1.4 Mission and Policy A04 1
+Production
+Logistics
+Sales
